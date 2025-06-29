@@ -12,7 +12,7 @@ Please note, when the due date is reached, the version you have submitted last, 
 Once the due date has passed, it will not be possible for you to upload a different version of your assessment. Therefore, you must ensure you have submitted the correct version of your assessment which you wish to be marked, by the due date.
 
 ## Coursework Description
-The aim of this coursework is to provide a hands-on, practical, assessment of your machine learning skills; to work creatively on a dataset of a real-world application; to define a learning problem, discuss data attributes, evaluate suitable learning algorithm(s)— analytically or through your implementation, and to present your findings and conclusions.
+The aim of this coursework is to provide a hands-on, practical, assessment of your machine learning skills; to work creatively on a dataset of a real-world application; to define a learning problem, discuss data attributes, evaluate suitabe learning algorithm(s)— analytically or through your implementation, and to present your findings and conclusions.
 
 ## Background
 This is your chance to investigate a real-world machine learning classification problem using an appropriate data set and techniques.
